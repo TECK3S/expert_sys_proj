@@ -1,0 +1,8 @@
+B THEN A
+C THEN A
+D AND E THEN B
+H AND Z THEN C
+H THEN B
+
+= D,E
+? A
